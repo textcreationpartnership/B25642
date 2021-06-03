@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the right honorable the Lords &amp; Commons assembled in Parliament the humble petition of Major Hercules Langrish and Olymphas his uuife (of the right honourable family du Plessis in France), in behalfe of themselves, and of their sonnes Captaine Hercules  and Cornet Lucullus.</title>
+            <author>Langrish, Hercules.</author>
+         </titleStmt>
+         <extent>Approx. 26KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25642</idno><idno type="EEBO-CITATION">31355806</idno>
+  <idno type="VID">205891</idno>
+  <idno type="EEBO-PROQUEST">2248541959</idno>
+  
+            <idno type="STC">Wing L409</idno>
+            <idno type="OCLC">31355806</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25642)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205891)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1742:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the right honorable the Lords &amp; Commons assembled in Parliament the humble petition of Major Hercules Langrish and Olymphas his uuife (of the right honourable family du Plessis in France), in behalfe of themselves, and of their sonnes Captaine Hercules  and Cornet Lucullus.</title>
+                  <author>Langrish, Hercules.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1644?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imperfect: cropped, with loss of text.</note>
+                  <note>"A more full relation of greiuances and demeanours ... made by Major Hercules Langrish", p. [4]-[8].</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Langrish, Hercules.</term>
+               <term type="personal_name">Langrish, Olymphas.</term>
+               <term type="geographic_name">Bristol (England) --  History --  Siege, 1643.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="part">
+            <pb facs="tcp:205891:1"/>
+            <head>TO THE RIGHT <hi>HONORABLE</hi> the <hi>Lords</hi> &amp; <hi>Commons</hi> Assembled in Parliament The humble <hi>Petition</hi> of Major <hi>Hercules Langrish</hi> and <hi>Olymphas</hi> his <hi>VVife</hi> (of the Right <hi>Honourable Family du Plesseys in France</hi>) in behalfe of themselves, and of their sonnes Captaine <hi>Hercules</hi> and Cornet <hi>Lucullus.</hi>
+            </head>
+            <opener>Most Humbly Sheweth</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat your Petitioners have at severall times furnished great summes and used their best endeavours, for the good of this state, to their ex<g ref="char:EOLhyphen"/>ceeding great prejudice; and that the said Major, and his two sonnes (waving all other imployments though very Honorable and Lucrative) have served the <hi>Parliament</hi> as Commanders in this warre, for the just defence of our Religion and Liberties, from the first undertaking thereof, and accor<g ref="char:EOLhyphen"/>ding, to the uttermost of their care, skill, and ability, have performed their duties, and observed all just, and reasonable commands, with all possible diligence, fidelity, and alacrity; Howbeit your Petitioner being in <hi>Bristoll</hi> at the unhappy surrender thereof (though he exposed himselfe there, to more paines then his weake condition (occa<g ref="char:EOLhyphen"/>sioned by hurts receaved at <hi>Round-downe</hi>) could beare, and to much more danger then his charge called him unto; yet many scandalous aspertions, both in print, and other<g ref="char:EOLhyphen"/>wise, have beene reysed and cast upon him, not onely by some who detaine most un<g ref="char:EOLhyphen"/>justly your Petitioners Lands, and Goods and by such as he hath executed his superi<g ref="char:EOLhyphen"/>ors orders on, but by severall other malevolent, and ill affected persons, who (to co<g ref="char:EOLhyphen"/>ver their owne demerits, for which they should have beene questioned before a coun<g ref="char:EOLhyphen"/>cell of Warre in the West, but were not, by reason of their s<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ita<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> d<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb facs="tcp:205891:2"/> same, and payment of such monies, as they owe your Petitioner) have most unwor<g ref="char:EOLhyphen"/>thily combined, and by way of recrimination, endeavoured to staine his reputation, with most egregious calumnies, and by such detractions to bring Him, and His under the odium, obloquy, and disesteeme of the State, the sad consequence whereof hath occasioned in these evill times wherein men are more prone to beleeve evill reports then good, not onely his disgrace though most undeservedly, but also a delaye of pay both for himselfe and whole troope ever since the 14 of <hi>March</hi> 1642, the dammage whereof cheisly falleth upon your Petitioner, (who hath not onely dis<g ref="char:EOLhyphen"/>bursed of what should have paid his debts, supplyed his own occasions, and sustained his family, but borrowed of his freinds (at the earnest intreaty of his superior offi<g ref="char:EOLhyphen"/>cers and upon their promises to repay it in a short time) mony for the maintenance of himselfe and troope for thirteene weekes compleate of the said time, and furnished, it afterwards, with all such supplies and accommodations, as he could by any faire and honest meanes procure, for the better inabling him, to doe such services as have been imposed on him, by them, wherein your Petitioner hath beene alwa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es most successe<g ref="char:EOLhyphen"/>full when he was left to his owne wayes, and stratagems, as at <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>herborne, Portland, Abbots-bury, Malmesberry &amp;c.</hi> But not unto us, to God be the glory of all, yet notwithstanding have they not paid, or caused to be repaid any part thereof. but some of them have rather instigated your Petitioners Creditors (though more properly theirs, or the States then his) to use extremity against him, so that he hath beene ne<g ref="char:EOLhyphen"/>cessitated to pay some, and is much importuned for the rest, by such a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are indeed necessitous, and is much threatned by others, nay to be cast in prison suddenly for it, all which your Petitioner, hath often and by divers meanes intimated, to the Right Honourable the Earle of <hi>Essex,</hi> the Committee for the safety, and the Councell of Warre, whom he hath often attended, and petitioned for redresse of these and other greivances (more fully expressed in the Relation annexed) of all which, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n respect sometimes of his Honours more serious affaires, and his Advocats absence, <hi>M. Wal<g ref="char:EOLhyphen"/>kers</hi> and <hi>M. Prinns</hi> refusall of a tryall, when it was offered them, in <hi>Dec.</hi> 1643, and their not prosecuting since, or by meanes of some other obstructions unknowne to your Petitioner, he hath as yet reaped no benefit thereby, to His and His Families ut<g ref="char:EOLhyphen"/>ter ruine, if not spedily prevented, b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Clemency of this <hi>H<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nourable Court,</hi> for these delayes, non-performances, and procr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>stinations, have forced him so to over<g ref="char:EOLhyphen"/>racke his cre<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it, that it can extend no further, either for the dising<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gement, and reco<g ref="char:EOLhyphen"/>very of his lands, and goods here, and in <hi>France,</hi> or so much as for the present suste<g ref="char:EOLhyphen"/>nance of himselfe or any of his, who are tenne in number, and must all perish if not speedily supplyed, they being at present deprived, and dispossessed of all meanes of subsistance, by potent enemies, and incenced adversaries, both here, and in France, who menace aloud all their distructions.</p>
+            <p>
+               <hi>Wherefore your <hi>Petitioners</hi> having suffered much both here, and there a long time in many respects, for service done th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s State, and y<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur <hi>Petitioner</hi> being desirous to undeceave the world conc<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rning the premises, especially <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he mem<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ers of this <hi>Hono<g ref="char:EOLhyphen"/>rable Court</hi> (by the equity of whose justice he is ambitious to stand or fall) being, confident that they will be as prone to vindicate the innocent, and releive the op<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="7 letters">
+                     <desc>〈7 letters〉</desc>
+                  </gap>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi>
+               <lb/>
+               <pb facs="tcp:205891:2"/>
+               <hi>Most humbly pray</hi>
+            </p>
+            <p>That some present mony may be allotted your Petitioner, for their and their Fa<g ref="char:EOLhyphen"/>milies subsistance, and satisfaction of their most necessitous and importunate creditors and that a Committee may be nominated, and appointed, aswell to examine their losses, as the manner of his and their demeanours, in all services since their first under<g ref="char:EOLhyphen"/>taking thereof, as also for the examination of the matters in the annexed, and of all such greivances, and articles, as your Petitioners shall exhibite to the said Committee and that likewise and order may be made for the auditing their accounts, that upon report thereof made by the Committee to this <hi>Honorable</hi> Court, your Petitioners may be in some measure satisfied for all their losses, repaired in point of honour, and receive their Disbursements and Arreares, or otherwise have the publicke Faith for some, and an Ordinance for the rest, to raise it out of notorious Malignants, and De<g ref="char:EOLhyphen"/>linquents Estates, as they have or shall discover in, or within sixtie miles of <hi>London,</hi> being confident to bring in great profit thereby, to the State, or at lest-wise out of one halfe therof, and the other halfe with the remainder of the first, (if any shall be) to be disposed, and disbursed on Horse and Armes, for the Defence of <hi>Hampshiere, Surrey,</hi> and <hi>Suss<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>x,</hi> by the direction of the <hi>Committees</hi> for the Southerne Association, and that the judicature may be referred to one of the <hi>Committees</hi> for Sequestration, either in <hi>London</hi> or <hi>Westminster,</hi> for what is and shall be discovered therein, and for the rest, to the <hi>C<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mmittees</hi> in the respective Counties, as shal seem best to this Honorable Court, that they may goe on cheerefully in the said Service, the which they desire to advance to the utmost of their Lives and Fortunes, and for that end and purpose (being by all or any of these wayes and overtures satisfied) and your Petitioner vindicated in his Honour) will raise a hundred Horse and men, to add to those so raised, and hazard ther<g ref="char:EOLhyphen"/>withall their Lives and Fortunes freely and faithfully in the <hi>Parliaments</hi> service, which otherwayes they are utterly disabled to doe, for the present; however noe sufferings, or discouragements shall ever alienate their affections from so just and pi<g ref="char:EOLhyphen"/>ous a Cause, but they shall, and will actuate in Defence and furtherance thereof, in all wayes, and conditions be they never so dangerous, that this Honorable Court shall appoint, and for proofe hereof, the said Captaine is gone as a Voluntiere to his Ex<g ref="char:EOLhyphen"/>cellency, Sir <hi>Thomas Fairefa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>x,</hi> under whose Counmand he still remaines, being unwilling to omit any opportunity, whereby he may manifest his devotion to the Cause, and as for the Major and Cornet they shall continually wrestle with God, by their prayers, for blessings on the Parliament, and fight in defence, and for the ad<g ref="char:EOLhyphen"/>vancement thereof, when they shall, by their Orders, be designed thereunto.</p>
+            <closer>And they shall ever pray &amp;c.</closer>
+         </div>
+         <div type="part">
+            <pb facs="tcp:205891:3"/>
+            <head>To the Right Honourable the <hi>Lords</hi> &amp; <hi>Commons</hi> A more full Relation of greiuances and demeanours, or rather representation thereof, made by Major <hi>Hercules Langrish,</hi> both for himselfe, a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d his Wife <hi>Olimphas</hi> as also for his Sonns Captaine <hi>Hercules,</hi> and Cornet <hi>Lucullus,</hi> and likewise of their most humble requests and offers.</head>
+            <opener>Sheweth</opener>
+            <p>THat the said Major (hath ever since the age of twenty yeares) had such a just and wel-grounded disesteeme of Popery, and the maine pillar thereof (Prelacy) that no allurements, or promises (either of profit or honour) made unto him h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re or in France, could so farre prevaile with him, as to incite him to concurre with a<g ref="char:EOLhyphen"/>ny, for the increase and advancement thereof, but such spirituall comfort, &amp; soule-con<g ref="char:EOLhyphen"/>solation, did he about that age reape, by his conversation with Presbyterians there, that he at that age resolved (by Gods blessed assistance) to live, and dye in defence of the Protestant Religion, as it is established dependent, under the Presbyterian Go<g ref="char:EOLhyphen"/>vernment, and about the age of three and twentie yeares married (for his better and more contented establishment therein,) <hi>Olympas du Pl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sseys</hi> his now consort, who had beene educated alwayes according to the government and discipline thereof, and was so well instructed therein, and in the worship and doctrines thereof, that no perswasion could divert her from it, and accordingly they have both lived ever since, notwithstanding many very considerable, and earnest temptations, and suggestions to the contrary; but the glory of God, and the good of his church having ever beene the cheifest directories for their thoughts, and actions, have not onely incited them, to expend much of their fortunes for the advancement thereof in forraigne parts, but the said Major often to hazard his life in defence thereof, yet was still most ela<g ref="char:EOLhyphen"/>borate and vigilent to lay hold on all opportunities, to serve this his native coun<g ref="char:EOLhyphen"/>try, aswell in all civill respects, and relations; as also for the propagation, and set<g ref="char:EOLhyphen"/>tlement thereof, in this king<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome; whereby he hath attracted on himselfe, and his, not onely the implacable malice of Papists and their younger brothers the Prelatists, but also of Separatists, and Scismaticks, who have laboured, and combined to ruine him for it, in his repute, by traducing and aspersing him most unjustly, whereas o<g ref="char:EOLhyphen"/>therwise, Hee might now have beene Master of a faire estate, and in very ho<g ref="char:EOLhyphen"/>nourable imployments, either here or in other parts, but the said Major, aswell as his Wife, ayming more at the glory of God, and this countries good, <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb facs="tcp:205891:3"/> tending to the dishonour of the first, and prejudice of the latter, and have so freely sacrificed their fortunes in defence of them, that they have not onely diminished their estates thereby eight thousand pounds, but the said Major hath often exposed his person so freely in defence thereof, that he hath al<g ref="char:EOLhyphen"/>most lost the use of his limmes, with his place at Court of Carver in Ordi<g ref="char:EOLhyphen"/>nary to the <hi>Queenes Majesty,</hi> and that since the beginning of these warres as the said Major offers to justifie, and to manifest unto all the world, that both Hee, and his Sonnes have ever since the first undertaking thereof, de<g ref="char:EOLhyphen"/>meaned themselves most obedientially, carefully, and conscienciously in al im<g ref="char:EOLhyphen"/>ployments, and encounters; nay successefully, and to the Parliaments great profit and advantage in all services, for the execution whereof, they were left to their owne wayes, nay had the Majors advices, and directions beene followed, by his superiour Officers in divers places, many more Townes and Castles had beene taken, and tho<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e losses and dishonours which have befallen our forces had beene prevented and avoyded, es<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ecially at <hi>Wells,</hi> the <hi>Devises,</hi> and the day of the fight (or rather flight) at <hi>Roun<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>-downe,</hi> where the Major, was left as dead (and the Cornet unhorsed, and very much bruised yet got off most miraculously) but afterwards the Major was brought againe to life, by one <hi>Fox-crofts</hi> meanes, and by him was conduced to <hi>Bristoll,</hi> where he ex<g ref="char:EOLhyphen"/>posed himselfe, all the time of the Seige to mere paines, and danger, then either his weake, and cripled state of body could beare, or his charge, and orders required him to doe, and allthough hee was noe wayes culpable of the Surrender thereof, or conscious so much as of the smallest crime, or neglect committed there or elsewhere at any time, but did his utmost in Defence thereof then, as at all other times) till he was by the Counsell of Warre commanded of his post, and sent as hostage with Captaine <hi>Ipsly</hi> to the Enemy,) yet many vile as<g ref="char:EOLhyphen"/>persions, and loud untruths, both in Print, and otherwise, have been raised, and cast upon the Major, by malignant and ill deserving men, not onely to keep from light their owne demerits, and themselves from condigne punishment for the same, but also to exempt themselves from payment of such monyes as they owe, and are by many wayes indebted to the Major, as also for Plate and other things, put into some of their hands, to satisfie him, and the Forces, that were under his Command in <hi>Docester-shiere;</hi> for service there done by them, and all this likewise to bring him, into the ill opinion, and hatred both of the <hi>Parliament,</hi> as also of all other men; but especially of the Earle of <hi>Essex</hi> whom he often most earnestly pe<g ref="char:EOLhyphen"/>titioned, and attended, ever since his comming from <hi>Bristoll,</hi> as also the Coun<g ref="char:EOLhyphen"/>sell of VVarre, and the Committee of safety, for redresse of these greivances, of all which (in respect sometimes of his Honours more important imployments, his Advocates absence, Master <hi>Walkers</hi> and Master <hi>Prinn</hi> refusall of a Triall, when i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was offered in <hi>Dec.</hi> 1643, and their not prosecuting since, the Majors extreem <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> long sicknesse, and lamenesse occasioned by reason of his hurts received at <hi>Round-downe,</hi> and the <hi>Committee</hi> for the safeties not sitting of late, or by some other ob<g ref="char:EOLhyphen"/>structions unknowne to the Major, he hath as yet received no benefit thereby, the ill effects whereof have occasioned a delay of the pay for himselfe and Troun<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <pb facs="tcp:205891:4"/> due ever since the 14. of <hi>March</hi> 1642, the dammage whereof chiefly, nay almost totally, falleth upon the Major, (who hath disbursed at severall times, and for seve<g ref="char:EOLhyphen"/>rall services, and borowed of his friends (at the earnest intreaty of his superior Offi<g ref="char:EOLhyphen"/>cers, and of some <hi>Committee</hi> men, and upon their Vowes, and Protestations, to repay all in a short time) mony for the payment of his Troupe, for 13 weekes compleat of the time, he and they remain unpayed, and all for the better enabling him and them, to performe such services, as have been imposed on him by some of them, since that time, yet have none of them payed, or caused to be repaied any part thereof, but (after many discouragements, indignities, and open injuries received from some of them, not to be so long digested were they not <hi>Parliament</hi> men, or dependent thereon and offered by them, in a time, that all men doe passe as well by evill reports as good) the Major hath been necessitated, to pay some part thereof, and is much importuned for the rest, nay menaced with imprison<g ref="char:EOLhyphen"/>ment for some part thereof, by such as neither can or will forbeare it, any longer, and as for those monyes the Major hath disbursed of his owne, and should have received againe in <hi>London</hi> two yeares since, by bill of exchange, he hath received no part thereo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, though there was an Order made in <hi>Parliament,</hi> for payment <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hereof to his Assignes, about that time, the detention whereof hath not onely oc<g ref="char:EOLhyphen"/>casioned him, to lie long under a black cloud of infamie and reproach, (whereunto <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he best men are now most subject) but also to suffer much in his credit, Person, Estate, and Family, not having had any monies (since his returne from <hi>Bristoll</hi> to <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ustaine it, or himselfe in his sicknesse, with his sonne the Cornet (who hath <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>een likewise very sicke and much incommodated in his health ever since his hurts <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eceived at <hi>Round Downe</hi>) but what he hath borrowed, and must suddenly repay, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r suffer for it, so that they have not onely suffered much penurie, infamie and mi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erie thereby, but the Major hath been disabled to prosecute such as doe most un<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ustly detaine from him his Lands, and goods, in this Kingdome and Citie, but <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat which is most prejudiciall, and onerous to the Major, his wife, and all his, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, that the non payment of five hundred pounds to a French man about a yeare since, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he having long before that time disbursed thrice as much for the <hi>Parliament,</hi> all <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he majors wives Lands, and goods in <hi>France</hi> to the value of six thousand pounds <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t least, are by him, and others ceased on most unjustly, or upon a iust examination it <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ill appear, that there is nothing due unto them, yet his said wife is not only dispo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ssed and deprived thereof, but also of one of their daughters, who was taken <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>om her, by violence, and is put into a Nunnerie by force, not being above twelve <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eares of age, and so had been another of their daughters, of thirteen yeares, had <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot his said wife brought her away, thorough by-wayes, to the great hazard of <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eir lives, both by Sea, and Land; and all this, that the Major his wife, and other <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ildren, may for ever be frustrated of their said Lands, and goods, which otherwise would be unpossible for to effect, and at whose instigation al this hath bin done may <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot be onely easily coniectured, but evidently manifested—</p>
+            <p>If it would please this Honourable House to commemorate, what hath beene <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>scovered at severall times by the Major to Master <hi>Pim,</hi> Master <hi>Hamden,</hi> and <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>municated
+<pb facs="tcp:205891:4"/> at <hi>Westm<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nster</hi> on the Fourth of <hi>January,</hi> 1641 and on the sea<g ref="char:EOLhyphen"/>venth thereof at <hi>Grocers-Hall,</hi> all which (though the obliged effects of his bounden dutie) yet have so incensed, many now in <hi>France,</hi> aswell as here a<g ref="char:EOLhyphen"/>gainst the said Major, that they doe not onely, threaten to murther him, but to ruine: If his, so that no meanes will be left unessayed for the effecting thereof by causing the said lands, and goods, to be sold for little, or by setling them upon the Nunnery, the which will be so, if not speedily prevented by the Clemenccie of this Court, in supplying their wants. protecting still the Ma<g ref="char:EOLhyphen"/>jors person, and vouchsafing their Letters of recommendation to the Queene Regent for the releasement of their said daughter.</p>
+            <p>Now forasmuch as your Petitioners have beene so farre from disserving this state that they have chosen rather then so, to suffer a long time in their persons, credits and estates, and that the Major hath thought it to be more conducing to the advantage thereof, to suffer for a time, in his reputation, being sicke and weake, then to make more breaches therein, by questioning such as had meanes to availe it; or to make sporte at Oxford, and forasmuch likewise as some of his calumniators, fearing that the truth of the premises (notwithstanding these there endeavours to the con<g ref="char:EOLhyphen"/>trary) would be brought to light: to prevent it, have not onely most ungratefullie and unworthilie traduced the Maior to damnifie him in all the waies and particulars above specified, but set on some of their servants and followers to murther him in the Streets at night and still threaten to effect it.</p>
+            <p>That your Petitioners, their sonnes, and whole Family, may not be utterly ruined by your longer detention of the moneys due unto them, and that the World may be undeceaved in the Premises and know the faithfullnesse care, and worth, of the Ma<g ref="char:EOLhyphen"/>jor and his, and his sonnes demeanours in all services, and the demerits of his tradu<g ref="char:EOLhyphen"/>cers, and accusers, and what summes are due unto him from them, aswell as from the State, and likewise that they may be brought to condigne punishment for th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> same, and to pay the Major, all that is justly oweing unto him by them, and that he may receive againe all those monies he so spontaniously disbursed, and borrowed fo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them, and the State, and so freely imployed for it and them, often to the grea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hazard of his life, as also that his sonnes, may receive such summes as are due unto them and the rather, because they have brought in, for the use of the State considerable sum<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that they have taken from the Enemy, whereof they have had no share, nor the Majo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> neither, of the great summes made of Prisoners Estates, taken in <hi>Bristoll, Por<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>land, &amp;c.</hi>
+               <lb/>
+               <hi>They most humbly pray,</hi>
+            </p>
+            <p>That a Committee may be appoynted to examine all the Premises, and the Aud<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tors, to take the Majors, and his sonnes accounts, and that he may not only be vind<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>cated in his Honour but reimbursed such monyes as he hath borrowed, and layed o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of his owne, and his wives for the publicke Service, and that they and their Fami<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> may be eased of the extraordinary pressures they now lie under, and the rather becau<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Major, and the said Cornet sustained great losses at <hi>Edge-Hill,</hi> whilst th<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> were fighting there, and at <hi>Bristoll</hi> whilst the Major was in Hostage, in all to the <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ue
+<pb facs="tcp:205891:5"/> of eight hundred pounds, and likewise, for that, the said Captaine hath suffered great losses, when he was in the VVest with the Earle of Essex, and hath no lesse then the said Major disbursed great summes in recruting often, all which, have so im<g ref="char:EOLhyphen"/>poverished, the Major and his sonnes, that they can doe the State little service for the present, wanting convenient Equipage so to doe, to their extreeme griefe, and therefore that they may goe on with the Service, the which they desire to ad<g ref="char:EOLhyphen"/>vance, to the uttermost of their lives, and Fortunes, most earnestly pray againe, that if present money cannot be had suddenly, to satisfie them the whole of their due, at leastwise some considerable summe, may be forthwith given them, to supply their present urgent occasions, and that an Ordinance may be granted, for the raising of the rest out of Papists, Malignants, and Delinquents Estates, already discovered by the Major, or that shall hereafter be discovered by him, or them, in <hi>London,</hi> or within sixtie miles thereof; as shall seeme best to this Honourable Court, and that the judicature thereof may be referred as is specified in the annexed Petition, and out of the whole the Major will furnish a hundred Horse, for the States ser<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ice, and he, and his sonnes will adventure their Lives therewithall, and live, and die in Defence thereof, and take the publick Faith for the value of the said Horse, or serve the <hi>Parliament</hi> in any other way, or condition as shall seeme best to this Honourable Court; And for asmuch as Master <hi>Pim</hi> of the black-Bull in Bishop<g ref="char:EOLhyphen"/>gate-streete, hath most illegally, and (before an account given by him to the Ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or, of what was due unto him, for billiting him, his Officers and Troupers,) and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uring the Maiors great sicknesse and lamenesse) ceased on his Horses, Clothes, Armes, and whole equipage, and hath since disposed of some, (at farre underva<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ues,) and detaineth still the rest, notwithstanding the Major hath given him his <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>otes, for more mony, then can be due unto him, in all, his humble supplicttion <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>herefore is, that some speedy course may be taken to compell the said <hi>Pim</hi> to bring <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n his accounts, that he may receive what is justly due unto him, and that he may be <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>njoyned forthwith to restore to the Major his whole equipage that on all occasi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns, he may be provided to hazard his Life, the more advantagiously in defence of Gods and his Countries cause,</p>
+            <closer>And they shall ever pray, &amp;c.</closer>
+            <pb facs="tcp:205891:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
